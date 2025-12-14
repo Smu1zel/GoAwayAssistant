@@ -1,0 +1,6 @@
+id=idontwantassistantgo
+name=GoAwayAssistant
+version=1.0
+versionCode=1
+author=Smu1zel
+description=Removes Assistant Go on Android Go devices to allow for the regular Google app to be installed.
