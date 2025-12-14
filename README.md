@@ -28,7 +28,7 @@ Once you have done this. Install the Google app using your preferred method. If 
 
 ## Can I set Gemini as my assistant?
 
-Yes. Simply switch your default "Assist" or "Assistant" app in Settings to Google. When you hold down the home button. Gemini should appear and work as normal.
+Yes. Simply switch your default "Assist" or "Assistant" app in Settings to Google. When you hold down the home button, Gemini should appear and work as normal.
 
 ## Questions?
 
