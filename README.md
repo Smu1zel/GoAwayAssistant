@@ -21,7 +21,7 @@ This allows the usage of the many features inside the Google app. These include 
 
 ## How do I install the module?
 
-This is a fairly simple module. Simply install it as normal, reboot, and you will find that the Assistant Go app is now missing. If you want extra verification, try using ``cmd package install-existing com.google.android.apps.assistant`` in an adb or local shell. If this command fails. the module worked. 
+This is a fairly simple module. Simply install it as normal, reboot, and you will find that the Assistant Go app is now missing. If you want extra verification, try using ``cmd package install-existing com.google.android.apps.assistant`` in an adb or local shell. If this command fails, the module worked. 
 
 Once you have done this. Install the Google app using your preferred method. If you are using the Aurora Store method, and the aforementioned spoofs are not available, please try the latest nightly build.
 
